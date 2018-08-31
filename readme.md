@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/londzy/settings_billexpress-master.svg?branch=master)](https://travis-ci.org/londzy/settings_billexpress-master)
+
 # Introduction to creating web apps with ExpressJS
 
 In this document we will explore how to create web applications with [ExpressJS](http://http://expressjs.com/).
